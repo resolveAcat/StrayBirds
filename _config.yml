@@ -1,15 +1,6 @@
-
-#################################### global configure #######################################
-
-username: Mo_cat
+username: Mocat
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
-highlighter: pygments
+pygments:true
 title: 末的博客
-description: 人生到处知何似，应似飞鸿踏雪泥
-theme: kunka
-disqusname: minixalpha
-
-# theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
-# those themes are all come from GitHub Pages Themes
